@@ -1,3 +1,6 @@
+
+install.packages("tidyverse") cargue
+
 library(tidyverse) #importamos la libreria Tidyverse
 ######RETO DEL DÍA#############
 
