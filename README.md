@@ -1,8 +1,13 @@
 # 🧩 RSTUDIO_RETOS
-Bienvenido a **Rstudio_Retos**, un espacio para guardar scripts en **R** para documentar, prácticar, consultar y aplicar en proyectos. 
+
+Bienvenido a **Rstudio_Retos**, un espacio para guardar scripts en **R** para documentar, practicar, consultar y aplicar en proyectos.
+
 ---
+
 ## 📁 Descripción del repositorio
-Este repositorio contiene scripts organizados por temáticas y niveles de dificultad. El objetivo es mantener una biblioteca de código reusable donde cualquiera pueda consultar cómo resolver problemas específicos en R. 
+
+Este repositorio contiene scripts organizados por temáticas y niveles de dificultad. El objetivo es mantener una biblioteca de código reusable donde cualquiera pueda consultar cómo resolver problemas específicos en R.
+
 ---
 ## 📚 Libros recomendados para aprender R
 Si quieres aprender más sobre R y Data Science, te sugiero revisar estos libros gratuitos:
